@@ -1,6 +1,6 @@
 # Simple form
 
-A new Flutter project.one screenshot include 
+A new Flutter project. Include one screenshot 
 
 ## Getting Started
 
